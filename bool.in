@@ -1,0 +1,10 @@
+network = c3
+node_values = 1,-1
+rounds = 1024
+steps = 5000
+mode = Async
+model = Ising
+Parallel_Process = True
+Number_processes = 4
+ss_file = Stable_States.xlsx
+iterations = 1
